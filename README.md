@@ -1,6 +1,6 @@
 ## NAME: Tanessha Kannan
 ## REGISTER NO: 23006086
-## Expt no: 6-Synchornous counters up counter and down counter 
+## EXPERIMENT NO: 6-Synchornous counters up counter and down counter 
 ## AIM: To implement 3 bit up and down counters and validate  functionality.
 ## HARDWARE REQUIRED:  
 PC, Cyclone II , USB flasher
