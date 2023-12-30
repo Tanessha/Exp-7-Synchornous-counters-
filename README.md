@@ -60,7 +60,7 @@ endmodule
 ### RTL REALIZATION:
 ![WhatsApp Image 2023-12-20 at 20 56 29_7dcabd64](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/c283eff0-f438-409e-a830-d3f19628f97e)
 ### TRUTH TABLE:
-![Screenshot 2023-12-30 153507](https://github.com/Tanessha/Exp-7-Synchornous-counters-/assets/140876194/e9de780a-0323-43c8-b24c-0da27f9873ac)
+
 ### WAVEFORM OUTPUT: 
 ![Screenshot 2023-12-20 215157](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/d2839b5b-07e0-4c88-b78e-c36641f63b8a)
  
@@ -90,9 +90,8 @@ endmodule
 ### RTL REALIZATION:
 ![WhatsApp Image 2023-12-20 at 20 56 49_5d03bff0](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/53eb74d4-fa80-492e-9d7a-813135622b79)
 ### TRUTH TABLE:
-![image](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/e72783bc-a5a2-4f57-b2d2-a06399205dba)
+![Screenshot 2023-12-30 153507](https://github.com/Tanessha/Exp-7-Synchornous-counters-/assets/140876194/e9de780a-0323-43c8-b24c-0da27f9873ac)
 ### WAVEFORM :
 ![image](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/75cbd884-cb5e-4d59-a459-f7f20073e15f)
-
 ## RESULT:
 By this we have verified the truth table of 3-bit up-counter using verilog.
